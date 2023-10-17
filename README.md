@@ -26,6 +26,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushmishraa&show_icons=true&locale=en&layout=compact" alt="piyushmishraa" /></p>
 <h1></h1
 
-[![](https://visitcount.itsvg.in/api?id=piyushmishraa&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=piyushmishraa&label=Profile%20Views&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushmishraa&" alt="piyushmishraa" /></p>
