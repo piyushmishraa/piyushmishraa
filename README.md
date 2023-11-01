@@ -7,9 +7,9 @@
 
 
 
-- 🌱 I’m currently learning **React js,mongoDB**
+- 🌱 I’m currently learning **React js,Redux Tool Kit **
 
-- 💬 Ask me about **html,css,javaScript**
+- 💬 Ask me about **html,css,javaScript,React**
 
 - 📫 How to reach me **fanboiofharrystyles@gmail.com**
 
